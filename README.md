@@ -1,6 +1,4 @@
-# Data-Science
-
-Upload all the Data Science Assignments :
+Data Science Assignments :
 - Core Python
 -OOPs concepts
 -Numpy
@@ -9,4 +7,3 @@ Upload all the Data Science Assignments :
 -Seabornwith datasets
 -Supervise Learning Models with datasets
 -Unsupervised Learning Models with datasets
--Final Project  
